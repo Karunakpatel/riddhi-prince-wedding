@@ -1,2 +1,2 @@
-# riddhi-prince-wedding
+# siddhi-prince-wedding
 Wedding Invitation website 
